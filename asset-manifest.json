@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vimweb/static/css/main.66efeacb.chunk.css",
+    "main.js": "/vimweb/static/js/main.43c071d3.chunk.js",
+    "main.js.map": "/vimweb/static/js/main.43c071d3.chunk.js.map",
+    "runtime-main.js": "/vimweb/static/js/runtime-main.4646f3d1.js",
+    "runtime-main.js.map": "/vimweb/static/js/runtime-main.4646f3d1.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "/vimweb/static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.ea2d21e1.chunk.js": "/vimweb/static/js/2.ea2d21e1.chunk.js",
+    "static/js/2.ea2d21e1.chunk.js.map": "/vimweb/static/js/2.ea2d21e1.chunk.js.map",
+    "index.html": "/vimweb/index.html",
+    "precache-manifest.47d14d17fe0bbdde624b6dec8affe8c5.js": "/vimweb/precache-manifest.47d14d17fe0bbdde624b6dec8affe8c5.js",
+    "service-worker.js": "/vimweb/service-worker.js",
+    "static/css/2.3c1ddb0a.chunk.css.map": "/vimweb/static/css/2.3c1ddb0a.chunk.css.map",
+    "static/css/main.66efeacb.chunk.css.map": "/vimweb/static/css/main.66efeacb.chunk.css.map",
+    "static/media/poster1.jpg": "/vimweb/static/media/poster1.cc4cd2a8.jpg",
+    "static/media/poster2.jpg": "/vimweb/static/media/poster2.ab3ec610.jpg",
+    "static/media/poster3.jpg": "/vimweb/static/media/poster3.3b92c417.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4646f3d1.js",
+    "static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.ea2d21e1.chunk.js",
+    "static/css/main.66efeacb.chunk.css",
+    "static/js/main.43c071d3.chunk.js"
+  ]
+}
